@@ -1,0 +1,1 @@
+export let names : string[] = ['I','am','learning','TS'];
